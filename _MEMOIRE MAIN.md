@@ -1,6 +1,6 @@
 # Ressources la Cambre
 [Génération de Formes - sept 2024](La%20Cambre%20Design%20Industriel%20-%20Projet%20A%20I%20–%20Génération%20de%20Formes%20-%20sept%202024.pdf)
-[[Notes Enoncé FORMALL]]
+[Notes Enoncé FORMALL](Notes%20Enoncé%20FORMALL.md)
 
 [[Notes réu Debeir]]
 [[Visite LaCambre]]
