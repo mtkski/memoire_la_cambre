@@ -2,10 +2,7 @@
 ___
 [Paper](https://arxiv.org/pdf/2305.11588)
 [Video du paper](https://www.youtube.com/watch?v=G3xiabqcv3E)
-Implémentation du modèle [NeRF](NeRF.md) avec de la reco de texte. Paper chinois, voir si c'est pas juste du réchauffé, j'ai l'impression que c'est une implémentation basique. $\to$ #todo à confirmer avec les autres papers
-
-# Neural radiance field ? 
-C'est quoi ?????
+Implémentation du modèle [NeRF](NeRF.md) avec de la reco de texte. Paper chinois, voir si c'est pas juste du réchauffé, j'ai l'impression que c'est une implémentation basique. Voir c'est quoi la dif avec text2mesh. $\to$ #todo à confirmer avec les autres papers
 
 # Pipeline description
 [Pipeline text2nerf full explanation](Pipeline%20text2nerf.md)

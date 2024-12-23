@@ -22,6 +22,6 @@ Les questions auxquelles on doit tenter de répondre :
 - _Challenge_ : having clean UV unwrapping and topology (mentionné dans les considérations de Meshy)
 
 # Ressources en vrac
-- [[SDI]]
-- [[Latent NeRF]]
-- [[NeRF]] 
+- [SDI](SDI.md)
+- [Latent NeRF](Latent%20NeRF.md)
+- [NeRF](NeRF.md) 
