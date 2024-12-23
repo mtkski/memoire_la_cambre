@@ -1,0 +1,5 @@
+![](screenshot%202024-12-23%20à%2011.38.32.png)
+
+Overview of our Text2NeRF. Given an input text prompt, we infer an initial view $I_{0}$ and estimate its depth $D_{0}$ via a pre-trained diffusion model and a depth estimation model. Then we use the depth image-based rendering (__DIBR__) to warp the initial view and its depth map to various views to build the support set $S_{0}$ for initializing the neural radiance field (__NeRF__). Afterward, we design a progressive _inpainting_ and updating (__PIU__) strategy to complete missing regions consistently. 
+
+During each update, we render the NeRF in a novel view k to produce the image $I^R_k$ and depth $D^R_k$ with missing regions. Then, the diffusion model and depth estimation model are adopted to deduce completed image $\hat{I}_{k}$ and its depth $D^E_k$ . Furthermore, a two-stage depth alignment is implemented on $D^R_k$ and $D^E_k$ to obtain aligned depth $\hat{D}_{k}$ . Finally, the support set $S_{k}$ of view $k$ is added into training data to update NeRF. 
