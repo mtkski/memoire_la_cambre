@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "8c8df1ff29d0b75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "831751e634d43585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b48669f5159e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MEMOIRE MAIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_MEMOIRE MAIN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d87b77ebdacd2f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa08a6fad3b18cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f464f5c2b8e2ccea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5be78a4e69fb8b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e87a9dac1adec0e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d58e8db8601d0caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d64e578deca2582f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deeb77da34a4b6d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_MEMOIRE MAIN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _MEMOIRE MAIN"
+            }
+          },
+          {
+            "id": "4ebd587962f05005",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_MEMOIRE MAIN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _MEMOIRE MAIN"
+            }
+          },
+          {
+            "id": "b4b5ec79830acd8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e6189f75a7157df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_MEMOIRE MAIN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _MEMOIRE MAIN"
+            }
+          },
+          {
+            "id": "3f4900c4ac728157",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "44b48669f5159e14",
+  "lastOpenFiles": []
+}
