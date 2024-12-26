@@ -9,10 +9,6 @@
 [Visite LaCambre](Visite%20LaCambre.md)
 [Notes réu chez Ohme](Notes%20réu%20chez%20Ohme.md)
 
-# Définition de la problématique
-Les questions auxquelles on doit tenter de répondre :
-- Comment modéliser, généraliser et générer un dataset qui répond à des demandes très spécifique comme le milieu du design industriel et de l'art en général. 
-
 # Etat de l'art
 [État de l'art](État%20de%20l'art)
 
@@ -20,6 +16,11 @@ Les questions auxquelles on doit tenter de répondre :
 - Comment assurer la création de formes en 3D de manière robuste et durable. 
 - Quel outil utiliser pour le pipeline de toute les outils ? $\to$ retrouver outil proposé par Seb de PYL
 - _Challenge_ : having clean UV unwrapping and topology (mentionné dans les considérations de Meshy)
+- 
+
+## Définition de la problématique
+Les questions auxquelles on doit tenter de répondre :
+- Comment modéliser, généraliser et générer un dataset qui répond à des demandes très spécifique comme le milieu du design industriel et de l'art en général. 
 
 # Ressources en vrac
 - [SDI](SDI.md)

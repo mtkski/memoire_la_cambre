@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "831751e634d43585",
+        "id": "50e51a736406e22b",
         "type": "tabs",
         "children": [
           {
-            "id": "44b48669f5159e14",
+            "id": "0fefd111f16aaf5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d58e8db8601d0caa",
@@ -176,6 +177,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "44b48669f5159e14",
-  "lastOpenFiles": []
+  "active": "0fefd111f16aaf5d",
+  "lastOpenFiles": [
+    "_MEMOIRE MAIN.md",
+    "NeRF.md",
+    "Section 2 paper NeRF.md",
+    "Notes NeRF.md",
+    "Détails techniques implémentation NeRF.md",
+    "ShapeNet.md",
+    "État de l'art.md",
+    "img/screenshot 2024-12-23 à 11.38.32.png",
+    "img/Pasted image 20241223103427.png",
+    "img",
+    "img/Pasted image 20241223103348.png",
+    "Pasted image 20241223103345.png",
+    "img/Pasted image 20241223103418.png"
+  ]
 }
