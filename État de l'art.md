@@ -15,3 +15,5 @@
 
 ## CAD ?
 - Text to CAD de Raoul
+- [Text2Cad](https://arxiv.org/pdf/2411.06206) via Technical Drawings and diffusion
+- 
