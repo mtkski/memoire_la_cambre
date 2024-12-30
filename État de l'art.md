@@ -15,3 +15,5 @@
 
 ## CAD ?
 - Text to CAD de Raoul
+- [[Text2Cad]] ia Technical Drawings and diffusion 
+- 
