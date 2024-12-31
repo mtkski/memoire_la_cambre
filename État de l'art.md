@@ -16,4 +16,8 @@
 ## CAD ?
 - Text to CAD de Raoul
 - [[Text2Cad]] ia Technical Drawings and diffusion 
+
+## Datasets
+- [Obja-verse XL](Obja-verse%20XL)
+- [ShapeNet](ShapeNet.md)
 - 
