@@ -5,7 +5,7 @@
 [Réunion salle détente 30-12-24](Réunion%20salle%20détente%2030-12-24.md)
 
 # Etat de l'art
-[État de l'art](État%20de%20l'art)
+[State of the art](State%20of%20the%20art.md)
 
 # Question en vrac
 - Comment assurer la création de formes en 3D de manière robuste et durable. 

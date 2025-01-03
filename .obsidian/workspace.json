@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "État de l'art.md",
+                "file": "State of the art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "État de l'art"
+              "title": "State of the art"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "État de l'art.md",
+                "file": "State of the art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for État de l'art"
+              "title": "Backlinks for State of the art"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "État de l'art.md",
+                "file": "State of the art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from État de l'art"
+              "title": "Outgoing links from State of the art"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "État de l'art.md"
+                "file": "State of the art.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of État de l'art"
+              "title": "Outline of State of the art"
             }
           },
           {
@@ -204,7 +204,7 @@
   "active": "667c967e9c421aa3",
   "lastOpenFiles": [
     "_MEMOIRE MAIN.md",
-    "État de l'art.md",
+    "State of the art.md",
     "README.md",
     "Dreamfusion.md",
     "EdgeRunner.md",
