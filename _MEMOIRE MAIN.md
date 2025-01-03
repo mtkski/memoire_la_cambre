@@ -19,7 +19,8 @@
 
 ## Définition de la problématique
 Les questions auxquelles on doit tenter de répondre :
-- Comment modéliser, généraliser et générer un dataset qui répond à des demandes très spécifique comme le milieu du design industriel et de l'art en général. 
+- Comment modéliser, généraliser et générer un dataset qui répond à des demandes très spécifique comme le milieu du design industriel et de l'art en général. $\to$ 2D to 3D, generation of the 3 CAD views.  
+
 
 # Ressources en vrac
 - [Lexique mémoire](Lexique%20mémoire)
@@ -27,9 +28,15 @@ Les questions auxquelles on doit tenter de répondre :
 - [Latent NeRF](Latent%20NeRF.md)
 - [NeRF](NeRF.md) 
 - [[Gaussian splatting]]
-- [Open3D software](Open3D)
+- [Open3D library-software](Open3D)
 - [[Photogrametry, nerf, gaussian]]
+- [[Video Individual Kex]]
+- [Site de Jiaxiang Tang](https://me.kiui.moe/) chercheur PhD en IA spécialisé dans la 3D (EdgeRunner et Stable Dreamfusion c'est lui) 
+- [Tanks and temples](https://www.tanksandtemples.org/details/8610/)
+- [Instant mesh](https://arxiv.org/pdf/2404.07191)
+- [Treillis](https://trellis3d.github.io/)
 
 # Pensées random (boîte à idées)
 - [Pensées Hausdorff distance](Pensées%20Hausdorff%20distance.md)
+- [Pensées état du mémoire 2/12/24](Pensées%20état%20du%20mémoire.md)
 - 

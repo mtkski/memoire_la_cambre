@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7e478c4688bacf",
+        "id": "f891bd18390c53db",
         "type": "tabs",
         "children": [
           {
-            "id": "384400c93172a00b",
+            "id": "3d4e879be3118270",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "_MEMOIRE MAIN.md",
-                "staged": false
+                "file": "screenshot 2025-01-02 à 17.28.42.png",
+                "staged": true
               },
               "icon": "git-pull-request",
-              "title": "Diff View (_MEMOIRE MAIN)"
+              "title": "Diff View (screenshot 2025-01-02 à 17.28.42.png)"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d58e8db8601d0caa",
@@ -181,25 +182,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "384400c93172a00b",
+  "active": "3d4e879be3118270",
   "lastOpenFiles": [
     "_MEMOIRE MAIN.md",
-    "Photogrametry, nerf, gaussian.md",
-    "Open3D.md",
+    "Dreamfusion.md",
+    "État de l'art.md",
+    "EdgeRunner.md",
     "Gaussian splatting.md",
-    "NeRF.md",
+    "MeshAnything.md",
+    "text2mesh.md",
+    "Video Individual Kex.md",
     "Lexique mémoire.md",
-    "Stable dreamfusion.md",
-    "Text2Cad.md",
-    "Obja-verse XL.md",
+    "VQ-VAE.md",
     "ShapeNet.md",
+    "ThreeStudio.md",
+    "Pensées état du mémoire.md",
+    "Text2Cad.md",
+    "Open3D.md",
+    "screenshot 2025-01-02 à 17.28.42.png",
+    "screenshot 2025-01-02 à 17.26.16.png",
+    "isometric_view_of_gear.png",
+    "Photogrametry, nerf, gaussian.md",
+    "NeRF.md",
+    "Obja-verse XL.md",
     "Pipeline text2nerf.md",
     "text2nerf.md",
     "Réunion salle détente 30-12-24.md",
     "Neural Radiance Field.md",
-    "État de l'art.md",
-    "ThreeStudio.md",
-    "isometric_view_of_gear.png",
     "Section 2 paper NeRF.md",
     "Notes NeRF.md",
     "Détails techniques implémentation NeRF.md",
