@@ -15,10 +15,12 @@
 
 # 'implicit' to mesh
 - [EdgeRunner](EdgeRunner) 9/10/24 : trouvé sur le site d'un chercheur trouvé sur hugging face. 
-- [MeshAnything](MeshAnything) 26/9/24 : Chercheurs NVIDIA de Pékin, 
+- [MeshAnything](MeshAnything) 26/9/24 : Chercheurs NVIDIA de Pékin, img, NeRF, 3D GS, dense mesh, point cloud to __3D__. 
 - [Dreamfusion](Dreamfusion.md) 2022 : + technique, low-level, made in google, mais pas le plus récent. 
 - [Direct and Explicit 3D Generation from a Single Image](https://arxiv.org/pdf/2411.10947)
 - [PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models](https://arxiv.org/pdf/2412.18608) : 29/12/24 
+- [Treillis](https://trellis3d.github.io/) [paper](https://arxiv.org/pdf/2412.01506) 2/12/24 : imgto3D, textto3D, MicroSoft research
+
 
 # Text to shape
 ## Meshes  
