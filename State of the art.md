@@ -1,8 +1,8 @@
 # App existantes
 
 ## Implémentations commerciales
-- [Meshy](https://www.meshy.ai/?noRedirect=true) : close source, le + solide, multiple art styles, close
-- [Spine](https://spline.design/) : close source, 3D asset generator, more cartoon, close source.
+- [Meshy](https://www.meshy.ai/?noRedirect=true) : close source, le + solide, multiple art styles, meshes with marching cubes certainly
+- [Spine](https://spline.design/) : close source, 3D asset generator, more cartoon, close source, meshes with marching cubes certainly
 - [Adam AI](https://www.makewithadam.com/) : close source, idée sliders
 - [ThreeStudio](ThreeStudio.md) : open source, implémentation de Dreamfusion
 
@@ -39,7 +39,8 @@
 # Datasets
 - [Obja-verse XL](Obja-verse%20XL)
 - [ShapeNet](ShapeNet.md)
-
+- [ABC (a big cad dataset)](https://arxiv.org/pdf/1812.06216v2)
+- [ChangeIt3D](https://changeit3d.github.io/#dataset) : dataset qui lie des qualités géométriques aux mots. 
 # Tools, UI & others
 - [Comfy UI](https://github.com/comfyanonymous/ComfyUI) : UI pour implémenter des pipelines de diffusion etc. Potentiellement pas mal pour tout mettre ensemble (plutôt qu'un notebook)
 - 

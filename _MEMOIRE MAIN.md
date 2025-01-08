@@ -11,7 +11,8 @@
 - Comment assurer la création de formes en 3D de manière robuste et durable. 
 - Quel outil utiliser pour le pipeline de toute les outils ? $\to$ retrouver outil proposé par Seb de PYL
 - _Challenge_ : having clean UV unwrapping and topology (mentionné dans les considérations de Meshy) : topology, le problème est relativement bien résolu par les avancées récentes comme D
-- 
+- Est ce que utiliser des outils comme RSV sur des vues CAD ça sert à quelque chose ? L'intérêt du move ça serait de 1) utiliser un outil de l'ULB et 2) faire quelque chose que je n'ai pas beaucoup vu dans la doc $\to$ approche nouvelle (mais il faut se renseigner, si ça se trouver il y a des choses similaires qui marchent mieux dans l'état de l'art)
+- Voir comment entrainer la "culture" de notre LLM générateur de fichier obj avec des ressources custom $\to$ web scraping, préparation du dataset, labeling etc. 
 
 ## Définition de la problématique
 Les questions auxquelles on doit tenter de répondre :
@@ -31,6 +32,8 @@ Les questions auxquelles on doit tenter de répondre :
 - [Site de Jiaxiang Tang](https://me.kiui.moe/) chercheur PhD en IA spécialisé dans la 3D (EdgeRunner et Stable Dreamfusion c'est lui) 
 - [Tanks and temples](https://www.tanksandtemples.org/details/8610/) : pour du benchmarking, pas + creusé
 - [Instant mesh](https://arxiv.org/pdf/2404.07191) 
+- [[Comparaisons fichiers 3D]]
+- 
 
 ## Ressources La Cambre
 - [Génération de Formes - sept 2024](La%20Cambre%20Design%20Industriel%20-%20Projet%20A%20I%20–%20Génération%20de%20Formes%20-%20sept%202024.pdf)
@@ -38,5 +41,7 @@ Les questions auxquelles on doit tenter de répondre :
 
 # Pensées random (boîte à idées)
 - [Pensées Hausdorff distance](Pensées%20Hausdorff%20distance.md)
-- [Pensées état du mémoire 2/12/24](Pensées%20état%20du%20mémoire.md)
+- [Pensées état du mémoire 2/1/25](Pensées%20état%20du%20mémoire.md)
+- [[Pensées LISA 4-1-25]]
+- [[Écriture mail Debeir]]
 - 

@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MEMOIRE MAIN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_MEMOIRE MAIN"
-            }
-          },
-          {
-            "id": "667c967e9c421aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "State of the art.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +20,36 @@
               "icon": "lucide-file",
               "title": "State of the art"
             }
+          },
+          {
+            "id": "8f52720c9c2fbd32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparaisons fichiers 3D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparaisons fichiers 3D"
+            }
+          },
+          {
+            "id": "a14b5dddf5d90750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLMs"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,11 +101,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d58e8db8601d0caa",
@@ -201,14 +216,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "667c967e9c421aa3",
+  "active": "3f4900c4ac728157",
   "lastOpenFiles": [
     "_MEMOIRE MAIN.md",
+    "Comparaisons fichiers 3D.md",
+    "LLMs.md",
+    "Écriture mail Debeir.md",
+    "Pensées LISA 4-1-25.md",
+    "text2nerf.md",
+    "Gaussian splatting.md",
     "State of the art.md",
+    "NeRF.md",
+    "Pensées état du mémoire.md",
+    "Notes NeRF.md",
     "README.md",
     "Dreamfusion.md",
     "EdgeRunner.md",
-    "Gaussian splatting.md",
     "MeshAnything.md",
     "text2mesh.md",
     "Video Individual Kex.md",
@@ -216,22 +239,14 @@
     "VQ-VAE.md",
     "ShapeNet.md",
     "ThreeStudio.md",
-    "Pensées état du mémoire.md",
     "Text2Cad.md",
     "Open3D.md",
     "screenshot 2025-01-02 à 17.28.42.png",
     "screenshot 2025-01-02 à 17.26.16.png",
     "isometric_view_of_gear.png",
     "Photogrametry, nerf, gaussian.md",
-    "NeRF.md",
     "Obja-verse XL.md",
     "Pipeline text2nerf.md",
-    "text2nerf.md",
-    "Réunion salle détente 30-12-24.md",
-    "Neural Radiance Field.md",
-    "Section 2 paper NeRF.md",
-    "Notes NeRF.md",
-    "Détails techniques implémentation NeRF.md",
     "img/screenshot 2024-12-23 à 11.38.32.png",
     "img/Pasted image 20241223103427.png",
     "img",

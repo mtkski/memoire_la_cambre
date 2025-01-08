@@ -1,5 +1,5 @@
 #pensées 
-2/1/24
+2/1/25
 ___
 # Ça va vite
 Quand Jean est venu vers nous, vers l'ULB pour le projet, beaucoup d'outils n'existaient pas encore, ça a évolué HYPER vite ces derniers mois. 
