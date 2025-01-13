@@ -43,5 +43,5 @@ Les questions auxquelles on doit tenter de répondre :
 - [Pensées Hausdorff distance](Pensées%20Hausdorff%20distance.md)
 - [Pensées état du mémoire 2/1/25](Pensées%20état%20du%20mémoire.md)
 - [[Pensées LISA 4-1-25]]
-- [[Écriture mail Dsebeir]]
+- [Écriture mail Debeir](Écriture%20mail%20Debeir.md)
 - 
