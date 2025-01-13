@@ -1,52 +1,24 @@
 {
   "main": {
-    "id": "8c8df1ff29d0b75d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "f891bd18390c53db",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d4e879be3118270",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State of the art.md",
+                "file": "Écriture mail Debeir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State of the art"
-            }
-          },
-          {
-            "id": "8f52720c9c2fbd32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comparaisons fichiers 3D.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comparaisons fichiers 3D"
-            }
-          },
-          {
-            "id": "a14b5dddf5d90750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLMs"
+              "title": "Écriture mail Debeir"
             }
           }
         ]
@@ -101,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d58e8db8601d0caa",
@@ -123,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State of the art.md",
+                "file": "_MEMOIRE MAIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for State of the art"
+              "title": "Backlinks for _MEMOIRE MAIN"
             }
           },
           {
@@ -142,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State of the art.md",
+                "file": "_MEMOIRE MAIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from State of the art"
+              "title": "Outgoing links from _MEMOIRE MAIN"
             }
           },
           {
@@ -164,19 +134,17 @@
             }
           },
           {
-            "id": "5e6189f75a7157df",
+            "id": "68ce2c0c9dab3c65",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "State of the art.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of State of the art"
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "3f4900c4ac728157",
+            "id": "fc02537cd30930a4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -186,13 +154,15 @@
             }
           },
           {
-            "id": "68ce2c0c9dab3c65",
+            "id": "5884229738165d9f",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "outline",
+              "state": {
+                "file": "_MEMOIRE MAIN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _MEMOIRE MAIN"
             }
           }
         ],
@@ -216,28 +186,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3f4900c4ac728157",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_MEMOIRE MAIN.md",
-    "Comparaisons fichiers 3D.md",
-    "LLMs.md",
+    "State of the art.md",
     "Écriture mail Debeir.md",
+    "screenshot 2025-01-10 à 19.41.22.png",
+    "Comparaisons fichiers 3D.md",
+    "Gaussian splatting.md",
+    "NeRF.md",
+    "ShapeNet.md",
+    "Obja-verse XL.md",
+    "screenshot 2025-01-10 à 16.17.49.png",
+    "screenshot 2025-01-10 à 16.12.28.png",
+    "screenshot 2025-01-10 à 15.33.48.png",
+    "MeshAnything.md",
+    "LLMs.md",
     "Pensées LISA 4-1-25.md",
     "text2nerf.md",
-    "Gaussian splatting.md",
-    "State of the art.md",
-    "NeRF.md",
     "Pensées état du mémoire.md",
     "Notes NeRF.md",
     "README.md",
     "Dreamfusion.md",
     "EdgeRunner.md",
-    "MeshAnything.md",
     "text2mesh.md",
     "Video Individual Kex.md",
     "Lexique mémoire.md",
     "VQ-VAE.md",
-    "ShapeNet.md",
     "ThreeStudio.md",
     "Text2Cad.md",
     "Open3D.md",
@@ -245,13 +220,9 @@
     "screenshot 2025-01-02 à 17.26.16.png",
     "isometric_view_of_gear.png",
     "Photogrametry, nerf, gaussian.md",
-    "Obja-verse XL.md",
-    "Pipeline text2nerf.md",
     "img/screenshot 2024-12-23 à 11.38.32.png",
     "img/Pasted image 20241223103427.png",
     "img",
-    "img/Pasted image 20241223103348.png",
-    "Pasted image 20241223103345.png",
-    "img/Pasted image 20241223103418.png"
+    "img/Pasted image 20241223103348.png"
   ]
 }
