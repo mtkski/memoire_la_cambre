@@ -29,9 +29,7 @@ Binaire ? Peut être pas le plus lisible pour un LLM.
 [Bonne explication](https://docs.fileformat.com/fr/3d/obj/) de ce que c'est, de quoi c'est capable. 
 Encodage des vertices, assez léger, plutôt lisible. Ma question c'est comment il arrive à faire sens de ces chiffres randoms et discriminer entre les formes etc. 
 Ça a l'air d'être le type de fichier le + expressif. Vu que c'est du plain text, c'est "facilement" tokenizable, maintenant il faut comprendre combien il faut lui donner, (et comment) pour que le LLM capte quelque chose. 
-
-## 
-
+ 
 # Que veut un LLM ?
 [[LLMs]]
 Le plus gros challenge c'est la tokenization. Comment encoder des coordonnées (ou autre) pour un LLM ? 

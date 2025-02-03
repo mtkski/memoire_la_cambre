@@ -21,7 +21,7 @@ Il y a des datasets d'objets 3D qui existent, pour ne citer que les 2 plus gros 
 
 Générer un dataset complet de fichiers 3D n'est pas réaliste. Une idée serait alors de renforcer le modèle de diffusion 2D initial, les images étant bien plus répandues que les modèles 3D. Dans l'idée d'étoffer les connaissances du modèle en termes de design etc, on pourrait imaginer faire du webscraping en fonction des besoins de la Cambre pour ce modèle.
 
-L'autre idée est de récupérer des données venant des étudiants etc, mais la plus grande question est de savoir si c'est pertinent au vu du nombre de données requise. Nous pensons que ça reste quelque chose qui serait assez intéressant, mais il reste à voir comment implémenter ceci dans une IA (par exemple donner + de poids pour cette petite partie des données). Ou alors imaginer des workshop avec la Cambre pour sensibiliser aux outils de générations, apprendre à communiquer avec ces modèles statistiques pour en sortir les choses les plus pertinentes possible etc. 
+L'autre idée est de récupérer des données venant des étudiants etc, mais la plus grande question est de savoir si c'est pertinent au vu du nombre de données requise. Nous pensons que ça reste quelque chose qui serait assez intéressant, mais il reste à voir comment implémenter ceci dans une IA (par exemple donner + de poids pour cette petite partie des données). Ou alors imaginer des workshop avec la Cambre pour sensibiliser aux outils de générations, apprendre à communiquer avec ces modèles statistiques pour en sortir les choses les plus pertinentes possible etc. $\to$ prompt engineering.
 
 # Traduction 2D-3D
 Cette étape est cruciale pour générer des mesh propres utilisables dans les logiciels de CAD pour le design industriel. Il existe plein de représentation d'objets et de scènes en 3D. On pourrait citer les [NeRFs](https://arxiv.org/pdf/2003.08934) ou le [Gaussian Splatting](https://arxiv.org/pdf/2308.04079), qui sont des représentations dites "implicites". C'est à dire qu'elle ne font que _représenter_ une scène 3D, pour de la VR ou AR par exemple. On peut voir ceci comme un réseau de neurone qui est overfité au maximum sur des données bien précises pour représenter au mieux la scène. 
@@ -31,7 +31,7 @@ Mais le paradigme principal du monde de la 3D est basé sur les maillages, les _
 Le paper initial de l'algorithme date de 1987. Des améliorations notables ont eu lieu pendant son histoire, notamment assez récemment avec "Neural Marching Cubes" en 2021. Les surfaces générées sont plus propres, donnant moins cette illusion d'approximation. 
 Mais le plus gros problème reste la topologie assez complexe et difficilement utilisable dans un contexte de CAD ou de design. 
 _Image issue de "Neural Marching cubes". On voit le côté un peu imprécis des marching cubes traditionnels, la meilleure netteté des NMC, mais tout de même une complexité topologique._ 
-![400](screenshot%202025-01-10%20à%2015.33.48.png)
+![600](screenshot%202025-01-10%20à%2015.33.48.png)
 _Comparaison entre des mesh générés par marching cubes (version non précisée) vs un mesh généré par Meshtron de Nvidia._
 ![400](https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/mesh-comparisons-625x487.jpg)
 
